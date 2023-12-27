@@ -6,5 +6,5 @@
 - 💬 Just Ask Me!
 - 📫 How to reach me: jiongxnext0809@gmail.com
 - 😊 Pronouns: Catch Our Dream (^_^)/
-- ⚡ Fun fact: LoveLive School Idol! Nikki! City SkyLines! Wonderful Music!
+- ⚡ Fun fact: LoveLive School Idol! Nikki! City SkyLines! Dreamy Music! M@STERPIECE!
 
