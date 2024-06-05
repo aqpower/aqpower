@@ -1,10 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jiiong</h1>
+<h3 align="center">A passionate frontend developer or web designer or CSer</h3>
 
-- 🔥 I’m currently studying on NanChang Hangkong University
-- 🌱 I’m currently learning Web/OS/ML/SICP/CSAPP
-- 🤔 I’m hoping stronger stronger stronger!
-- 💬 Just Ask Me!
-- 📫 How to reach me: Jiiong.Xiiao@gmail.com
-- 😊 Pronouns: Catch Our Dream (^_^)/
-- ⚡ Fun fact: LoveLive and School Idol! Shining Nikki! Infinite Nikki! City SkyLines! Dreamy Music! M@STERPIECE!
-
+<p align="left">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqpower&count_private=true&theme=transparent)
+</p>
